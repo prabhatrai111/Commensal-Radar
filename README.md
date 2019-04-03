@@ -14,4 +14,4 @@ Training Dataset Link: https://drive.google.com/file/d/1w83Ufk0R0EWexfeKzB36gI3T
 
 I would like to thank Mr Santu Sardar and Prof Mohammed Zafar Ali Khan to give me oppurtunity to work with them.
 The files and dataset are uploaded after the consent of Mr Santu and Prof Zafar and they have every rights to 
-reserve and claim a copyright if similar work found without their consent.
+reserve and claim a copyright.
