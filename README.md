@@ -5,8 +5,8 @@ This repository mainly consists of file and dataset used for the Journal Papers 
 2) 2017 IEEE AFRICON
 
 Please find the same Journal papers in the given link below:
-https://ieeexplore.ieee.org/document/8408895
-https://ieeexplore.ieee.org/document/8095715
+1) https://ieeexplore.ieee.org/document/8408895
+2) https://ieeexplore.ieee.org/document/8095715
 
 
 Training Dataset Link: https://drive.google.com/file/d/1w83Ufk0R0EWexfeKzB36gI3THUehDgRc/view?usp=sharing
