@@ -9,6 +9,6 @@ https://ieeexplore.ieee.org/document/8408895
 https://ieeexplore.ieee.org/document/8095715
 
 
-I would like to thank Mr Santu Sardar and Prof Mohhammed Zafar Ali Khan to give me oppurtunity to work with them.
+I would like to thank Mr Santu Sardar and Prof Mohammed Zafar Ali Khan to give me oppurtunity to work with them.
 This files and dataset are uploaded after the consent of Mr Santu and Prof Zafar and they have every rights to 
 reserve and claim a copyright if similar work found without their consent.
